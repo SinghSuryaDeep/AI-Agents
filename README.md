@@ -173,7 +173,7 @@ The graph defines conditional edges: after inventory check, if items are in stoc
    WATSONX_PROJECT_ID="your-project-id"
    WATSONX_API_KEY="your-api-key"
    WATSONX_URL="https://us-south.ml.cloud.ibm.com"
-   WATSONX_MODEL_ID="ibm/granite-3-3-8b-instruct"
+   WATSONX_MODEL_ID="model-name"
    ```
 
 ---
