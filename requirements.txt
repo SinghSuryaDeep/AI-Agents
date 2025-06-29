@@ -1,0 +1,26 @@
+# requirements.txt
+# IBM Watsonx Core
+ibm-watsonx-ai>=1.0.0
+ibm-cloud-sdk-core>=3.16.0
+
+# AutoGen Framework
+autogen-core>=0.4.6
+autogen-ext>=0.4.6
+autogen-agentchat>=0.2.0
+autogen-watsonx-client>=0.0.8
+pyautogen>=0.2.0
+
+# LangGraph and LangChain
+langgraph>=0.0.55
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-community>=0.0.29
+langchain-ibm>=0.1.0
+
+# CrewAI Framework
+crewai>=0.28.0
+crewai-tools>=0.1.0
+
+# BeeAI Framework
+beeai-framework
+beeai-framework[wikipedia]
