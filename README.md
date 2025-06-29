@@ -146,8 +146,8 @@ The graph defines conditional edges: after inventory check, if items are in stoc
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/SinghSuryaDeep/Agentic-AI.git
-   cd Agentic-AI
+   git clone https://github.com/SinghSuryaDeep/AI-Agents.git
+   cd AI-Agents
    ```
 
 2. **Install dependencies**:
