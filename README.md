@@ -8,7 +8,7 @@ This repository provides a comprehensive starter kit demonstrating the power and
 
 | Agentic Framework | Implementation File |
 | :---------------- | :------------------ |
-| AutoGen           | [`frameworks/autogen_financial_analysis.py`](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/autogen_financial_analysis.py\) |
+| AutoGen           | [`frameworks/autogen_financial_analysis.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/autogen_financial_analysis.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/autogen_financial_analysis.py\)) |
 | BeeAI             | [`frameworks/beeai_research_assistant.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/beeai_research_assistant.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/beeai_research_assistant.py\)) |
 | CrewAI            | [`frameworks/crewai_content_creation.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/crewai_content_creation.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/crewai_content_creation.py\)) |
 | LangChain         | [`frameworks/langchain_legal_analysis.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/langchain_legal_analysis.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/langchain_legal_analysis.py\)) |
