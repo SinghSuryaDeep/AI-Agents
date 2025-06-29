@@ -1,10 +1,16 @@
------
-
 # 🚀 Agentic Frameworks Starter Kit 🚀
 
 This repository provides a comprehensive starter kit demonstrating the power and versatility of various **Agentic AI frameworks like AutoGen, BeeAI, LangChain, LangGraph, CrewAI, etc.**. Each framework is showcased through a practical use case, illustrating its strengths and how it can be leveraged for different applications.
 
 -----
+
+| Agentic Framework | Implementation File |
+| :---------------- | :------------------ |
+| AutoGen           | [`frameworks/autogen_financial_analysis.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/autogen_financial_analysis.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/autogen_financial_analysis.py\)) |
+| BeeAI             | [`frameworks/beeai_research_assistant.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/beeai_research_assistant.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/beeai_research_assistant.py\)) |
+| CrewAI            | [`frameworks/crewai_content_creation.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/crewai_content_creation.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/crewai_content_creation.py\)) |
+| LangChain         | [`frameworks/langchain_legal_analysis.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/langchain_legal_analysis.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/langchain_legal_analysis.py\)) |
+| LangGraph         | [`frameworks/langgraph_ecommerce_workflow.py`](https://www.google.com/search?q=%5Bhttps://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/langgraph_ecommerce_workflow.py%5D\(https://github.com/SinghSuryaDeep/Agentic-AI/tree/main/frameworks/langgraph_ecommerce_workflow.py\)) |
 
 ## 🌟 Features
 
@@ -28,7 +34,7 @@ This AutoGen example demonstrates how to build a multi-agent system for **financ
 
 #### How it Works:
 
-Two specialized agents, `FinancialAnalyst` and `InvestmentStrategist`, collaborate in a `RoundRobinGroupChat`.
+Two specialized agents, `FinancialAnalyst` and `InvestmentStrategist`.
 
 1.  **FinancialAnalyst**: Analyzes provided financial data (revenue, profit, debt, cash flow) and news sentiment for a given company. It assesses financial health, identifies strengths/weaknesses, and provides market positioning insights.
 2.  **InvestmentStrategist**: Takes the analyst's report and formulates an investment recommendation (Buy/Hold/Sell) with justification, potential returns, and risks. The strategist is instructed to output its final recommendation in a structured JSON format.
@@ -180,7 +186,7 @@ This script will run each framework's demonstration and print its output to the 
 
 -----
 
-## 🔗 Connect with the Author
+## 🔗 Connect
 
 **SURYA DEEP SINGH**
 LinkedIn 🔵 : [https://www.linkedin.com/in/surya-deep-singh-b9b94813a/](https://www.linkedin.com/in/surya-deep-singh-b9b94813a/)
