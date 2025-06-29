@@ -146,8 +146,8 @@ The graph defines conditional edges: after inventory check, if items are in stoc
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/agentic-frameworks-starter-kit.git
-   cd agentic-frameworks-starter-kit
+   git clone https://github.com/SinghSuryaDeep/Agentic-AI.git
+   cd Agentic-AI
    ```
 
 2. **Install dependencies**:
