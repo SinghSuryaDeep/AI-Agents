@@ -1,7 +1,7 @@
 """
-@Author: SURYA DEEP SINGH
+Author: SURYA DEEP SINGH
 File Name: utils/common_utils.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import re

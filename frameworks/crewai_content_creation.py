@@ -1,8 +1,8 @@
 """
-@Author: SURYA DEEP SINGH
-Agentic Framework: CrewAI
+Author: SURYA DEEP SINGH
+Framework: CrewAI
 File Name: frameworks/crewai_content_creation.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import logging

@@ -1,8 +1,8 @@
 """
-@Author: SURYA DEEP SINGH
-Agentic Framework: BeeAI
+Author: SURYA DEEP SINGH
+Framework: BeeAI
 File Name: frameworks/beeai_research_assistant.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import asyncio

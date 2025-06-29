@@ -1,8 +1,8 @@
 """
-@Author: SURYA DEEP SINGH
-Agentic Framework: AutoGen
+Author: SURYA DEEP SINGH
+Framework: AutoGen
 File Name: frameworks/autogen_financial_analysis.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import asyncio

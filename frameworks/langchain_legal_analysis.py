@@ -1,8 +1,8 @@
 """
-@Author: SURYA DEEP SINGH
-Agentic Framework: LangChain
+Author: SURYA DEEP SINGH
+Framework: LangChain
 File Name: frameworks/langchain_legal_analysis.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import logging

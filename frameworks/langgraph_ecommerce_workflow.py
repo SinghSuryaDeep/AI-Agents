@@ -1,8 +1,8 @@
 """
-@Author: SURYA DEEP SINGH
-Agentic Framework: LangGraph
+Author: SURYA DEEP SINGH
+Framework: LangGraph
 File Name: frameworks/langgraph_ecommerce_workflow.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import logging

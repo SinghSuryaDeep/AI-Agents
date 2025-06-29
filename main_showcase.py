@@ -1,8 +1,8 @@
 """
-@Author: SURYA DEEP SINGH
+Author: SURYA DEEP SINGH
 Agentic Frameworks: AutoGen, BeeAI, LangChain, LangGraph, CrewAI, etc
 File Name: main_showcase.py
-LinkedIn 🔵 : https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
+LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """
 
 import asyncio
