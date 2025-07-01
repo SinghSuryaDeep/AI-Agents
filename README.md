@@ -2,14 +2,14 @@
 
 # 🚀 Agentic Frameworks Starter Kit 🚀
 
-This repository provides a comprehensive starter kit demonstrating the power and versatility of various **Agentic AI frameworks like AutoGen, BeeAI, LangChain, LangGraph, CrewAI, etc.**. Each framework is showcased through a practical use case, illustrating its strengths and how it can be leveraged for different applications.
+This repository provides a comprehensive starter kit demonstrating the power and versatility of various **Agentic AI frameworks like AutoGen, Bee, LangChain, LangGraph, CrewAI, etc.**. Each framework is showcased through a practical use case, illustrating its strengths and how it can be leveraged for different applications.
 
 ---
 
 | Agentic Framework | Implementation File                                                                                                                               |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | AutoGen           | [frameworks/autogen\_financial\_analysis.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/autogen_financial_analysis.py)     |
-| BeeAI             | [frameworks/beeai\_research\_assistant.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/beeai_research_assistant.py)         |
+| Bee               | [frameworks/beeai\_research\_assistant.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/beeai_research_assistant.py)         |
 | CrewAI            | [frameworks/crewai\_content\_creation.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/crewai_content_creation.py)           |
 | LangChain         | [frameworks/langchain\_legal\_analysis.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/langchain_legal_analysis.py)         |
 | LangGraph         | [frameworks/langgraph\_ecommerce\_workflow.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/langgraph_ecommerce_workflow.py) |
@@ -47,13 +47,13 @@ The `AutoGenFinancialAnalyzer` orchestrates this conversation, taking company fi
 
 ## [frameworks/beeai\_research\_assistant.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/beeai_research_assistant.py)
 
-### 🧠 Framework: BeeAI
+### 🧠 Framework: Bee
 
-BeeAI is an agentic framework designed to build intelligent agents that can reason, plan, and use tools to achieve goals. It emphasizes structured agent behavior and memory management.
+Bee is an agentic framework designed to build intelligent agents that can reason, plan, and use tools to achieve goals. It emphasizes structured agent behavior and memory management.
 
 ### 💼 Use Case: Research Assistant
 
-This BeeAI example implements a **research assistant capable of answering queries by leveraging external tools**, specifically Wikipedia. A fallback mechanism is also included for scenarios where specialized tools might not be fully functional.
+This Bee example implements a **research assistant capable of answering queries by leveraging external tools**, specifically Wikipedia. A fallback mechanism is also included for scenarios where specialized tools might not be fully functional.
 
 #### How it Works:
 
