@@ -19,7 +19,7 @@ This repository provides a comprehensive starter kit demonstrating the power and
 * **Centralized Configuration**: A `Config` class to manage Watsonx API credentials and model details, ensuring easy setup and secure access.
 * **Modular Design**: Each agentic framework is implemented in its own dedicated file, promoting clarity and reusability.
 * **Practical Use Cases**: Real-world scenarios for each framework, showcasing their capabilities in financial analysis, e-commerce workflows, research assistance, content creation, and legal document analysis.
-* **Watsonx Integration**: All examples are configured to use IBM Watsonx as the underlying Large Language Model (LLM) provider.
+* **LLMs Integration**: All examples are configured to use the underlying Large Language Model (LLM).
 * **Asynchronous Execution**: Leverages `asyncio` for efficient handling of concurrent agent interactions where applicable.
 
 ---
