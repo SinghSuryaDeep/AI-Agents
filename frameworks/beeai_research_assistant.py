@@ -1,6 +1,6 @@
 """
 Author: SURYA DEEP SINGH
-Framework: BeeAI
+Framework: Bee
 File Name: frameworks/beeai_research_assistant.py
 LinkedIn: https://www.linkedin.com/in/surya-deep-singh-b9b94813a/
 """

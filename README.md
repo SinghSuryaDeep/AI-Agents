@@ -26,7 +26,7 @@ This repository provides a comprehensive starter kit demonstrating the power and
 
 ## [frameworks/autogen\_financial\_analysis.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/autogen_financial_analysis.py)
 
-### 🧠 Framework: AutoGen
+### 🧠 Framework: AutoGen by Microsoft
 
 AutoGen is a framework that enables the development of LLM applications by allowing multiple agents to converse with each other to solve tasks. It provides a flexible and conversational AI paradigm.
 
@@ -47,7 +47,7 @@ The `AutoGenFinancialAnalyzer` orchestrates this conversation, taking company fi
 
 ## [frameworks/beeai\_research\_assistant.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/beeai_research_assistant.py)
 
-### 🧠 Framework: Bee
+### 🧠 Framework: Bee by IBM
 
 Bee is an agentic framework designed to build intelligent agents that can reason, plan, and use tools to achieve goals. It emphasizes structured agent behavior and memory management.
 
@@ -70,7 +70,7 @@ The assistant takes a natural language query and returns a researched answer, in
 
 ## [frameworks/crewai\_content\_creation.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/crewai_content_creation.py)
 
-### 🧠 Framework: CrewAI
+### 🧠 Framework: CrewAI by CrewAI
 
 CrewAI is a framework for orchestrating role-playing autonomous AI agents. It enables agents to work together in a structured "crew" to achieve a common goal, making it ideal for multi-step, collaborative tasks.
 
@@ -99,7 +99,7 @@ A `Crew` is established with these agents and their respective tasks, executing 
 
 ## [frameworks/langchain\_legal\_analysis.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/langchain_legal_analysis.py)
 
-### 🧠 Framework: LangChain
+### 🧠 Framework: LangChain by LangChain
 
 LangChain is a widely used framework for developing applications powered by language models. It provides modular components and chains to build complex LLM workflows, enabling integration with various tools and data sources.
 
@@ -121,7 +121,7 @@ These chains are combined using `RunnableParallel` and `RunnablePassthrough` to 
 
 ## [frameworks/langgraph\_ecommerce\_workflow.py](https://github.com/SinghSuryaDeep/Agentic-AI/blob/main/frameworks/langgraph_ecommerce_workflow.py)
 
-### 🧠 Framework: LangGraph
+### 🧠 Framework: LangGraph by LangChain
 
 LangGraph is an extension of LangChain, designed for building stateful, multi-actor applications with LLMs. It allows defining flows as graphs, where nodes represent computational steps (agents, tools, LLMs) and edges define transitions based on state.
 
